@@ -1,0 +1,25 @@
+{
+  "name": "jn-textarea",
+  "version": "0.1.1",
+  "homepage": "https://github.com/jnxyx/jn-textarea",
+  "author": {
+    "name": "Yun Xiang Xu",
+    "url": "https://github.com/jnxyx"
+  },
+  "repository": "jnxyx/jn-textarea",
+  "bugs": {
+    "url": "https://github.com/jnxyx/jn-textarea"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "jn-each": "^0.1.1",
+    "jquery": "^2.2.3"
+  }
+}
