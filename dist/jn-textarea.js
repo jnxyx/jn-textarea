@@ -1,3 +1,9 @@
+/*
+    require jQuery
+    富文本框限制插件
+    调用： <textarea class="jn-textarea" jn-max="205"></textarea>
+    created by xuyunxiang On 2017.10.23
+ */
 (function ($) {
     $.fn.jnTextarea = function () {
         var self = $(this);
